@@ -1,6 +1,6 @@
 {
-    "serverAddress": "fbi.gov",
-    "serverName": "Federal Bureau of Investigation",
+    "serverAddress": "localhost",
+    "serverName": "ghost.net",
     "iconName": "fbi.png",
-    "terminalID": "fbi"
+    "terminalID": "AOA"
 }
